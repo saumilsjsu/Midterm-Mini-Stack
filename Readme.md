@@ -98,9 +98,9 @@ get <key>
 ```
 ![](Images/ELB.png)
 ![](Images/gumball%20run.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Image%20pull.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Curl.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/mysql.PNG)
+![](Images/Image%20pull.PNG)
+![](Images/Curl.PNG)
+![](Images/mysql.PNG)
 
 ### Part 3: Deploy Kong API Gateway with Auth Key to Gumball
 
@@ -109,26 +109,26 @@ get <key>
 * Add an API Key in Kong to the Gumball Load Balanced API
 
 Kong Container Dockerized
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Kong%20container.PNG)
+![](Images/Kong%20container.PNG)
 
 
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/APIS.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Add%20API.PNG)
+![](Images/APIS.PNG)
+![](Images/Add%20API.PNG)
 
 Consumer Created
 
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/consumer.PNG)
+![](Images/consumer.PNG)
 
 Key Value set
 
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Key-auth.PNG)
+![](Images/Key-auth.PNG)
 
 Testing
 
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/ping.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/gumball.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/order.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/processed.PNG)
+![](Images/ping.PNG)
+![](Images/gumball.PNG)
+![](Images/order.PNG)
+![](Images/processed.PNG)
 
 
 ### Part 4: Modify & Deploy Node.js on a Local Docker Instance
@@ -136,5 +136,5 @@ Testing
 * Modify the code in Node.js to point at your AWS Kong API Gateway
 * Deploy the Node.js App to you local docker host
 * Run the Node.js App
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/NodeJs1.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/NodeJs2.PNG)
+![](Images/NodeJs1.PNG)
+![](Images/NodeJs2.PNG)
