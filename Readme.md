@@ -96,7 +96,7 @@ Redis:
 keys *
 get <key>
 ```
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/ELB.PNG)
+![](Images/ELB.png)
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/gumball%20run.PNG)
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Image%20pull.PNG)
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Curl.PNG)
