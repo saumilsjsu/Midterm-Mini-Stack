@@ -65,8 +65,8 @@ cd redis-stable
 make
 src/redis-cli -h <host> -p 6379
 ```
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/RDS%20SG.PNG)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/ElstiCachhe%20SG.PNG)
+![](Images/RDS%20SG.png)
+![](Images/ElstiCachhe%20SG.png)
 
 ### Part 2: Deploy Gumball Cluster with an Internal ELB
 
@@ -97,7 +97,7 @@ keys *
 get <key>
 ```
 ![](Images/ELB.png)
-![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/gumball%20run.PNG)
+![](Images/gumball%20run.PNG)
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Image%20pull.PNG)
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/Curl.PNG)
 ![](https://github.com/rohank2002/Midterm-Mini-Stack/blob/master/Images/mysql.PNG)
